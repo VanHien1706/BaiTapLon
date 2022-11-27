@@ -33,10 +33,12 @@ header.sticky {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding-right: 380px;
     font-weight: 700;
+    justify-content: center;
 }
 
 .toolbar{
     width: 300px;
+    justify-content: center;
 }
 #navbarDropdown:hover{
     color: rgb(84, 221, 231);
