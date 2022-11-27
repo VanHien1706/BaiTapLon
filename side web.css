@@ -125,9 +125,10 @@ footer {
 }
 
 .cardd{
-    margin: 0 10px;
-    align-items: center;
     margin-left: 10px;
+    align-items: center;
+    /* margin-left: 10px; */
+
 }
 
 .rank{
@@ -187,9 +188,9 @@ footer {
     margin-left: 150px;
 } */
 
-.item{
-    margin: 0 10px;
-}
+/* .item{
+    margin-le10px;
+} */
 
 .item >img{
     width: 224px;
